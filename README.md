@@ -44,6 +44,6 @@
 <h2 align="left">🏆 GitHub Trophies:</h2>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohandalal8&theme=tokyonight" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=rohandalal8&theme=tokyonight&margin-w=10" alt="GitHub Trophies"/>
   </a>
 </p>
