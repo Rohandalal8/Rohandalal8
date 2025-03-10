@@ -35,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohandalal8&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohandalal8&theme=dark" alt="GitHub Streak"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohandalal8&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohandalal8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
