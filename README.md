@@ -28,6 +28,7 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
 </p>
 
 <h2 align="left">📊 GitHub Stats:</h2>
@@ -35,7 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohandalal8&show_icons=true&lovale=en&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohandalal8&theme=tokyonight" alt="Github Streak" />
+<img align="center" src="https://streak-stats.demolab.com/?user=rohandalal8&theme=tokyonight" alt="Github Streak" />
 </p>
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohandalal8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
