@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats:
 ![Rohandalal8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohandalal8&show_icons=true&theme=transparent)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rohandalal8)](https://git.io/streak-stats)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rohandalal8&theme=transparent)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohandalal8&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
