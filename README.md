@@ -37,23 +37,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Rohandalal8&show_icons=true&theme=transparent&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Rohandalal8&theme=transparent&hide_border=true" height="180"/>
-</p>
+![Rohandalal8's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Rohandalal8&show_icons=true&theme=transparent)
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rohandalal8&layout=compact&theme=transparent&hide_border=true" height="180"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rohandalal8&theme=transparent)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Rohandalal8&theme=transparent&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohandalal8&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rohandalal8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rohandalal8&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Rohandalal8&limit=5&theme=dark&combine_all_yearly_contributions=true)
