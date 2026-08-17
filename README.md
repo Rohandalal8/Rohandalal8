@@ -35,13 +35,25 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 📊 GitHub Stats:
-![Rohandalal8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohandalal8&show_icons=true&theme=transparent)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rohandalal8&theme=transparent)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohandalal8&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Rohandalal8&show_icons=true&theme=transparent&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Rohandalal8&theme=transparent&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rohandalal8&layout=compact&theme=transparent&hide_border=true" height="180"/>
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rohandalal8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohandalal8&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rohandalal8&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rohandalal8&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
