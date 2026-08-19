@@ -1,13 +1,31 @@
-# Hi 👋, I'm Rohan
+## 👨‍💻 About Me
 
-<p>
-🌱 I’m currently learning Web Development<br>
-👨‍💻 Working on Full Stack Projects<br>
-📫 Reach me at rohandalal079@gmail.com
+- Full Stack MERN Developer
+- Building Modern Web Applications
+- Happy to build together
+- Currently Learning Java
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://rohandalal.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/rohndalal">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rohandalal_)
 
 ## 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
