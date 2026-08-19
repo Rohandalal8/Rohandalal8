@@ -9,21 +9,11 @@
 
 <p align="left">
 
-<a href="https://rohandalal.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1.svg?logo=vercel&logoColor=white)](https://rohandalal.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-dalal-7214172bb)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rohandalal08)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohndalal)
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/rohndalal">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 </p>
 
