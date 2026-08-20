@@ -1,10 +1,3 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:312e81,100:06b6d4&height=200&section=header&text=&fontSize=0"
-    width="100%"
-  />
-</p>
-
 ## 👨‍💻 About Me
 
 - Full Stack MERN Developer
